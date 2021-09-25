@@ -16,7 +16,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_marginLeft="90dp"
-            android:fontFamily="sans-serif"
+            android:fontFamily="sans-serif-black"
             android:text="@string/name"
             android:textAppearance="bold"
             android:textColor="@color/gradient_end_color"
